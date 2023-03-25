@@ -20,3 +20,15 @@ body {
     align-items: center;
     justify-content: space-between;
 }
+
+.apresentacao_conteudo {
+    width: 615px;
+}
+
+.apresentacao_conteudo_titulo {
+    font-size: 36px;
+}
+
+.apresentacao_conteudo_texto {
+    font-size: 24px;
+}
