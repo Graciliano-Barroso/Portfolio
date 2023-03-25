@@ -36,3 +36,8 @@ body {
     font-family: 'Montserrat', sans-serif;
     font-size: 24px;
 }
+
+.apresentacao_botoes {
+    display: flex;
+    justify-content: space-between;
+}
