@@ -13,7 +13,7 @@ body {
 }
 
 .cabecalho {
-    padding: 2% 0% 0% 15%;
+    padding: 2% 0% 0% 6%;
 }
 
 .cabecalho_menu {
@@ -34,7 +34,7 @@ body {
 }
 
 .apresentacao {
-    padding: 5% 15%;
+    padding: 5% 6%;
     display: flex;
     align-items: center;
     justify-content: space-between;
@@ -100,4 +100,27 @@ body {
     font-family: 'Montserrat', sans-serif;
     font-size: 24px;
     font-weight: 400;
+}
+
+.apresentacao__conteudo {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+}
+
+.apresentacao__conteudo__titulo {
+    font-family: 'Krona One', sans-serif;
+    font-size: 36px;
+}
+
+.apresentacao__conteudo__texto {
+    margin: 65px 0;
+    font-family: 'Montserrat', sans-serif;
+    font-size: 24px;
+    font-weight: 400;
+}
+
+.apresentacao__conteudo__texto a {
+    text-decoration: none;
+    color: #22D4FD;
 }
