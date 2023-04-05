@@ -145,9 +145,15 @@ body {
 
     .cabecalho_menu {
         justify-content: center;
+        gap: 50px;
     }
 
     .apresentacao {
+        padding: 0 5%;
         flex-direction: column-reverse;
+    }
+
+    .apresentacao_conteudo {
+        width: auto;
     }
 }
