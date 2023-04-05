@@ -33,7 +33,7 @@ body {
 .cabecalho_menu_link {
     font-family: var(--font-secundaria);
     font-weight: 600;
-    font-size: 24px;
+    font-size: 1.5rem;
     color: var(--cor-terciaria);
     text-decoration: none;
 }
@@ -63,7 +63,7 @@ body {
 
 .apresentacao_conteudo_texto {
     font-family: var(--font-secundaria);
-    font-size: 24px;
+    font-size: 1.5rem;
 }
 
 .apresentacao_container_botoes {
@@ -77,7 +77,7 @@ body {
 .apresentacao_botoes_subtitulo {
     font-family: var(--font-primaria);
     font-weight: 400;
-    font-size: 24px;
+    font-size: 1.5rem;
 }
 
 .apresentacao_botao {
@@ -88,7 +88,7 @@ body {
     width: 378px;
     text-align: center;
     border-radius: 8px;
-    font-size: 24px;
+    font-size: 1.5rem;
     font-weight: 600;
     padding: 21.5px 0;
     text-decoration: none;
@@ -106,7 +106,7 @@ body {
     background-color: var(--cor-terciaria);
     text-align: center;
     font-family: var(--font-secundaria);
-    font-size: 24px;
+    font-size: 1.5rem;
     font-weight: 400;
 }
 
@@ -118,13 +118,13 @@ body {
 
 .apresentacao__conteudo__titulo {
     font-family: var(--font-primaria);
-    font-size: 36px;
+    font-size: 2.25rem;
 }
 
 .apresentacao__conteudo__texto {
     margin: 65px 0;
     font-family: var(--font-secundaria);
-    font-size: 24px;
+    font-size: 1.5rem;
     font-weight: 400;
 }
 
